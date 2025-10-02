@@ -41,7 +41,7 @@ console.log(negValue);
 // console.log(2/3);
 // console.log(2%3);
 
-let str1 = "hello"
+let str1 = "hello world"
 let str2 = "gaurav"
 
 let str3 = str1 + str2
@@ -65,6 +65,7 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
+
 let x = 3;
 const y = x++;
 
@@ -76,6 +77,7 @@ const b = ++a;
 
 console.log(`a:${a}, b:${b}`);
 // Expected output: "a:4, b:4"
+
 
 
 
