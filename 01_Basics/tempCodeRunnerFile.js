@@ -1,2 +1,4 @@
-"use strict" //treat all js code as newer version
-// alert("Hello World")
+let newDate = new Date()
+// console.log(newDate);
+// console.log(newDate.getMonth() + 1);
+// console.log(newDate.getDay());
